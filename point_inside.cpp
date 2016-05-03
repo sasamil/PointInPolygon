@@ -1,6 +1,6 @@
 /***************************************************************************
  *   Copyright (C) 2016 by Саша Миленковић                                 *
- *   smilenkovic@rgz.gov.rs                                                *
+ *   sasa.milenkovic.xyz@gmail.com                                                *
  *                                                                         *
  *   The code in is_inside_sm function is free software; you can           *
  *   redistribute it and/or modify it under the terms of the GNU General   * 
