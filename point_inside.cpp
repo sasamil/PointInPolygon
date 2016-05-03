@@ -160,7 +160,7 @@ int is_inside_sm(const Point* polygon, const Point point, int length)
 }
 
 //===================================================================
-// main is given here just for perfomance test
+// This is how I made performance tests. 
 int main(int argc, char *argv[])
 {
 	printf("Point-in test\n\n");
