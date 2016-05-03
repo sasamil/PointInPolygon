@@ -50,7 +50,6 @@ const Point test_polygon2[39] =
 //    Return: >0 for P2 left of the line through P0 and P1
 //            =0 for P2  on the line
 //            <0 for P2  right of the line
-//    See: Algorithm 1 "Area of Triangles and Polygons"
 inline double isLeft( Point P0, Point P1, Point P2 )
 {
     return ( (P1.x - P0.x) * (P2.y - P0.y) - (P2.x -  P0.x) * (P1.y - P0.y) ) ;
