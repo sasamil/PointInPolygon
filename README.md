@@ -4,3 +4,5 @@ This implementation (i.e. function - is_inside_sm() ) is tested against standard
 
 Unlike standard implementations (cn and wn), this one WORKS ON EDGES, providing (at least) equally good execution speed. <img src="http://emoticoner.com/files/emoticons/smileys/running-smiley.gif" alt="fast, faster..." height="21" width="30">
 <!--img src="http://forum.srpskinacionalisti.com/images/smilies/eusa_dance.gif" alt="best performance" height="16" width="27"-->
+
+(<i>The Python implementation of the same algorithm is given <a href="https://github.com/sasamil/PointInPolygon_Py">here</a>.</i>)
