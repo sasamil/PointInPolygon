@@ -124,7 +124,6 @@ int wn_WindingNumber( Point P, const Point* V, int n )
  *  0 - the point is outside the polygon
  * -1 - the point is on edge
  */
-
 int is_inside_sm(const Point* polygon, const Point point, int length)
 {
   int intersections = 0;
