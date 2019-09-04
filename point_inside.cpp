@@ -95,7 +95,7 @@ int wn_WindingNumber(Point P, const Point *V, int n) {
     } else {                               // start y > P.y (no test needed)
       if (V[i + 1].y <= P.y)               // a downward crossing
         if (isLeft(V[i], V[i + 1], P) < 0) // P right of  edge
-          --wn;                            // have  a valid down intersect
+          wn--;                            // have  a valid down intersect
     }
   }
 
